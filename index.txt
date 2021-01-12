@@ -1,5 +1,14 @@
 main fileeeeeee
 changes done
 
+#include<iostream>
+using namespace std;
 
-hhahahj keep on
+int main(){
+
+	int a = 12;
+	int b = 11;
+	int myBirthday = a + b;
+	cout<<"It's at "<<myBirhday;
+	return 0;
+}
